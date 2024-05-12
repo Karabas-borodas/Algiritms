@@ -1,0 +1,14 @@
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/Linked_list.GeneratedMSBuildEditorConfig.editorconfig
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/Linked_list.AssemblyInfoInputs.cache
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/Linked_list.AssemblyInfo.cs
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/Linked_list.csproj.CoreCompileInputs.cache
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/bin/Debug/net8.0/Linked_list
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/bin/Debug/net8.0/Linked_list.deps.json
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/bin/Debug/net8.0/Linked_list.runtimeconfig.json
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/bin/Debug/net8.0/Linked_list.dll
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/bin/Debug/net8.0/Linked_list.pdb
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/Linked_list.dll
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/refint/Linked_list.dll
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/Linked_list.pdb
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/Linked_list.genruntimeconfig.cache
+/home/mihail/Code/school21/Preper/Algiritms/Linked_list/obj/Debug/net8.0/ref/Linked_list.dll
